@@ -38,4 +38,4 @@ $recent_posts = [
 ];
 
 
-require VIEWS . '/index.tpl.php';
+require VIEWS . '/about.tpl.php';

@@ -1,6 +1,3 @@
-<?php
-defined('TEST_PAGE') || die;
-?>
 <div class="col-md-4">
     <h3>Recent Posts</h3>
     <ul class="list-group">

@@ -1,8 +1,5 @@
-<?php
-defined('TEST_PAGE') || die;
-?>
 <footer class="footer">
-    <div class="text-bg-dark p-3 text-center">
+    <div class="text-light bg-dark p-3 text-center">
         <p>
             &copy; Copyright <?= date('Y') ?>
         </p>

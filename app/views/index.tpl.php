@@ -1,6 +1,4 @@
-<?php
-defined('TEST_PAGE') || die;
-include 'incs/header.php'; ?>
+<?php require VIEWS . '/incs/header.php'; ?>
 <main class="main py-3">
     <div class="container">
         <div class="row">
@@ -17,9 +15,9 @@ include 'incs/header.php'; ?>
                 <?php endforeach; ?>
             </div>
 
-            <?php include 'incs/sidebar.php' ?>
+            <?php require  VIEWS . '/incs/sidebar.php' ?>
         </div>
     </div>
 </main>
 
-<?php include 'incs/footer.php'; ?>
+<?php require VIEWS . '/incs/footer.php'; ?>

@@ -1,6 +1,5 @@
 <?php
 
-defined('TEST_PAGE') || die;
 
 function dump($data)
 {

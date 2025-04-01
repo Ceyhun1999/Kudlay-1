@@ -1,5 +1,5 @@
 <?php
-include VIEWS . '/incs/header.php'; ?>
+include   'incs/header.php'; ?>
 <main class="main py-3">
     <div class="container">
         <div class="row">
@@ -21,4 +21,4 @@ include VIEWS . '/incs/header.php'; ?>
         </div>
     </div>
 </main>
-<?php VIEWS . '/incs/footer.php'; ?>
+<?php include 'incs/footer.php'; ?>

@@ -62,4 +62,4 @@ $recent_posts = [
     ],
 ];
 
-require_once VIEWS . '/index.tpl.php';
+require  '../app/views/index.tpl.php';

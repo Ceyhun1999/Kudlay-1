@@ -1,5 +1,5 @@
 <?php
-include   'incs/header.php'; ?>
+require   'incs/header.php'; ?>
 <main class="main py-3">
     <div class="container">
         <div class="row">
@@ -21,4 +21,4 @@ include   'incs/header.php'; ?>
         </div>
     </div>
 </main>
-<?php include 'incs/footer.php'; ?>
+<?php require 'incs/footer.php'; ?>
